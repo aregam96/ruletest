@@ -26,3 +26,6 @@ Diabled Do not allow bypassing the above settings, enabled Lock branch
 //was able to push
 
 removed lock branch rule, enabled Dismiss stale pull request approvals when new commits are pushed
+//was able to push
+
+Now 3 rules are enabled Require a pull request before merging: Require approvals and Dismiss stale pull request approvals when new commits are pushed
