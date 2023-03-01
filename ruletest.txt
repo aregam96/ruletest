@@ -17,3 +17,6 @@ removed Require approvals and Require approval of the most recent reviewable pus
 // didn't let to push regarding the last rule
 
 removed all permissions from the branch rule
+//was able to push
+
+Enabled Require a pull request before merging/ Require approvals and Do not allow bypassing the above settings
