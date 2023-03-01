@@ -7,4 +7,4 @@ Second line added rule enabled: Require a pull request before merging/  Require 
 Enabled Code review limits
 //was able to push
 
-added Require approvals under Require a pull request before merging/
+added new rule under Require a pull request before merging/  Require approvals
