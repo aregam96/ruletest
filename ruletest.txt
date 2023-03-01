@@ -20,3 +20,6 @@ removed all permissions from the branch rule
 //was able to push
 
 Enabled Require a pull request before merging/ Require approvals and Do not allow bypassing the above settings
+// didn't let to push
+
+Diabled Do not allow bypassing the above settings, enabled Lock branch
