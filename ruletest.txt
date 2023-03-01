@@ -1,1 +1,3 @@
 First line before rule test for aregam96
+
+Second line added rule enabled: Require a pull request before merging/  Require approval of the most recent reviewable push
