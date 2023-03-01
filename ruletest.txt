@@ -8,3 +8,6 @@ Enabled Code review limits
 //was able to push
 
 added new rule under Require a pull request before merging/  Require approvals
+//was able to push
+
+Added new rule under branch settings : Do not allow bypassing the above settings
