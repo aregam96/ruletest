@@ -1,5 +1,10 @@
 First line before rule test for aregam96
+//was able to push
 
 Second line added rule enabled: Require a pull request before merging/  Require approval of the most recent reviewable push
+//was able to push
 
 Enabled Code review limits
+//was able to push
+
+added Require approvals under Require a pull request before merging/
