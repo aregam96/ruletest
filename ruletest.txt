@@ -23,3 +23,6 @@ Enabled Require a pull request before merging/ Require approvals and Do not allo
 // didn't let to push
 
 Diabled Do not allow bypassing the above settings, enabled Lock branch
+//was able to push
+
+removed lock branch rule, enabled Dismiss stale pull request approvals when new commits are pushed
