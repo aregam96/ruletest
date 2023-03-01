@@ -13,5 +13,7 @@ added new rule under Require a pull request before merging/  Require approvals
 Added new rule under branch settings : Do not allow bypassing the above settings
 // didn't let to push
 
-
 removed Require approvals and Require approval of the most recent reviewable push rules
+// didn't let to push regarding the last rule
+
+removed all permissions from the branch rule
